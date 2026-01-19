@@ -1,0 +1,30 @@
+'ID of profile-store': id-profile-store 
+Creator:  profile-creator
+Maintainer:  profile-maintainer
+'Profil definiert': profile-one
+'Profile definiert' : profile-various 
+'ID of profile': id-profile
+'Name/Label': table-name-label
+'Typ': table-data-type
+Parameter: table-parameter
+'ID Profil-Eintrag': table-id-parameter 
+Vokabular: data-type-vocabulary 
+Ja/Nein: data-type-bool 
+Zahl: data-type-number 
+'Text für WAHR': parameter-yes 
+'Text für FALSCH': parameter-no 
+Text: data-type-text
+'Dialogbox': parameter-dialog
+'integrierte Darstellung': parameter-integrated 
+Einmalauswahl: parameter-one-time
+Mehrfachauswahl: parameter-more-times
+'Nummerierung unterdrückt': parameter-hide-notation 
+'Zeige nur erste Ebene': parameter-deep
+Kommastellen: parameter-decimal
+Mindestwert: parameter-min-value
+Maximalwert: parameter-max-value 
+kein: parameter-noone
+'als Sekunden': parameter-seconds
+Einzeilig: parameter-textfield
+Mehrzeilig: parameter-textarea
+'Sprache(n): de':  parameter-language 

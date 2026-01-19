@@ -1,0 +1,37 @@
+---
+title: IQB Testprofil
+---
+
+ID archivio profili: `ptest`
+
+Creatore: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
+
+2 Profili definiti:
+
+# Testprofil - Aufgabe
+
+ID del profilo: `https://raw.githubusercontent.com/iqb-vocabs/p00/master/unit.json`
+
+| Nome/Etichetta | Tipo | Parametro | ID voce profilo |
+| :--- | :---: | :--- | :---: |
+| Vocabolario Aufgabe Dialog | [Vocabolario](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', selezione multipla, Dialogbox | a11 |
+| Vocabolario Aufgabe Implicit | [Vocabolario](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', selezione multipla, Dialogbox | a12 |
+| Vocabolario Aufgabe In-form | [Vocabolario](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', selezione multipla, rappresentazione integrata | a13 |
+| Boolean Aufgabe JA/NEIN | Sì/No | testo per VERO: ja, testo per FALSO: nein | a3 |
+| Number Aufgabe | Numero | cifre decimali: 0, valore minimo: 0, Valore massimo: nessuno | a4 |
+
+: {tbl-colwidths="[15,15,55,15]"}
+
+# Testprofil - Item
+
+ID del profilo: `https://raw.githubusercontent.com/iqb-vocabs/p00/master/item.json`
+
+| Nome/Etichetta | Tipo | Parametro | ID voce profilo |
+| :--- | :---: | :--- | :---: |
+| Freitext Item A | Testo | una riga, Lingua/e: it   | w2 |
+| Boolean Item | Sì/No | testo per VERO: störend, testo per FALSO: nicht relevant | w3 |
+| Number Item | Numero | cifre decimali: 0, valore minimo: 0, Valore massimo: nessuno, in secondi | w4 |
+| Test Vocabolario | [Vocabolario](https://w3id.org/iqb/v99/v3/) | url: 'https://w3id.org/iqb/v99/v3/', selezione multipla, mostra solo il primo livello, Dialogbox | w5 |
+
+: {tbl-colwidths="[15,15,55,15]"}
+

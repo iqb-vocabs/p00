@@ -1,0 +1,37 @@
+---
+title: IQB Testprofil
+---
+
+ID of profile-store: `ptest`
+
+Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
+
+2 profiles defined:
+
+# Testprofil - Aufgabe
+
+ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p00/master/unit.json`
+
+| Name/Label | Type | Parameter | ID profile entry |
+| :--- | :---: | :--- | :---: |
+| vocabulary Aufgabe Dialog | [vocabulary](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', multiple selection, Dialogbox | a11 |
+| vocabulary Aufgabe Implicit | [vocabulary](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', multiple selection, Dialogbox | a12 |
+| vocabulary Aufgabe In-form | [vocabulary](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', multiple selection, integrated display | a13 |
+| Boolean Aufgabe JA/NEIN | Yes/No | text for TRUE': ja, text for FALSE: nein | a3 |
+| Number Aufgabe | Number | decimal places: 0, minimum value: 0, maximum value: none | a4 |
+
+: {tbl-colwidths="[15,15,55,15]"}
+
+# Testprofil - Item
+
+ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p00/master/item.json`
+
+| Name/Label | Type | Parameter | ID profile entry |
+| :--- | :---: | :--- | :---: |
+| Freitext Item A | Text | single line, Language(s): en   | w2 |
+| Boolean Item | Yes/No | text for TRUE': störend, text for FALSE: nicht relevant | w3 |
+| Number Item | Number | decimal places: 0, minimum value: 0, maximum value: none, as seconds | w4 |
+| Test vocabulary | [vocabulary](https://w3id.org/iqb/v99/v3/) | url: 'https://w3id.org/iqb/v99/v3/', multiple selection, show only first level, Dialogbox | w5 |
+
+: {tbl-colwidths="[15,15,55,15]"}
+

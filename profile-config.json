@@ -1,0 +1,14 @@
+{
+  "id": "ptest",
+  "title": [
+    {
+      "lang": "de",
+      "value": "IQB Testprofil"
+    }
+  ],
+  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "profiles": [
+    "unit.json",
+    "item.json"
+  ]
+}

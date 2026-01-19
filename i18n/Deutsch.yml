@@ -1,0 +1,30 @@
+id-profile-store: 'ID des profile-store'
+profile-creator: Schöpfer
+profile-maintainer: Betreuer
+profile-one: 'Profil definiert'
+profile-various: 'Profile definiert' 
+id-profile: 'ID des profile'
+table-name-label: 'Name/Label'
+table-data-type: 'Typ'
+table-parameter: Parameter
+table-id-parameter: 'ID Profil-Eintrag'
+data-type-vocabulary: Vokabular
+data-type-bool: Ja/Nein
+data-type-number: Zahl
+data-type-text: Text
+parameter-dialog: 'Dialogbox'
+parameter-integrated: 'integrierte Darstellung'
+parameter-one-time: 'Einmalauswahl'
+parameter-more-times: 'Mehrfachauswahl'
+parameter-hide-notation: 'Nummerierung unterdrückt'
+parameter-deep: 'Zeige nur erste Ebene'
+parameter-yes: 'Text für WAHR'
+parameter-no: 'Text für FALSCH'
+parameter-decimal: 'Kommastellen'
+parameter-min-value: 'Mindestwert'
+parameter-max-value: 'Maximalwert'
+parameter-noone: 'kein'
+parameter-seconds: 'als Sekunden'
+parameter-textfield: 'Einzeilig'
+parameter-textarea: 'Mehrzeilig'
+parameter-language: 'Sprache(n): de'

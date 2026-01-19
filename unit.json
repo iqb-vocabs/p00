@@ -1,0 +1,103 @@
+{
+  "id": "https://raw.githubusercontent.com/iqb-vocabs/p00/master/unit.json",
+  "label": [{
+    "lang": "de",
+    "value": "Testprofil - Aufgabe"
+  }],
+  "groups": [
+    {
+      "label": [
+        {
+          "lang": "de",
+          "value": "Aufgabe"
+        }
+      ],
+      "entries": [
+          {
+          "id": "a11",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Vokabular Aufgabe Dialog"
+            }
+          ],
+          "type": "vocabulary",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v34/se/",
+            "allowMultipleValues": true,
+            "hideNumbering": false,
+            "selectionMode": "dialog"
+          }
+        },
+        {
+          "id": "a12",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Vokabular Aufgabe Implicit"
+            }
+          ],
+          "type": "vocabulary",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v34/se/",
+            "allowMultipleValues": true,
+            "hideNumbering": false
+          }
+        },
+        {
+          "id": "a13",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Vokabular Aufgabe In-form"
+            }
+          ],
+          "type": "vocabulary",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v34/se/",
+            "allowMultipleValues": true,
+            "hideNumbering": false,
+            "selectionMode": "in-form"
+          }
+        },
+        {
+          "id": "a3",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Boolean Aufgabe JA/NEIN"
+            }
+          ],
+          "type": "boolean",
+          "parameters": {
+            "trueLabel": [
+              {
+                "lang": "de",
+                "value": "ja"
+              }
+            ],
+            "falseLabel": [
+              {
+                "lang": "de",
+                "value": "nein"
+              }
+            ]
+          }
+        },{
+          "id": "a4",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Number Aufgabe"
+            }
+          ],
+          "type": "number",
+          "parameters": {
+            "minValue": 0,
+            "digits": 0
+          }
+        }
+      ]
+    }
+  ]
+}

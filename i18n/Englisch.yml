@@ -1,0 +1,30 @@
+id-profile-store: 'ID of profile-store'
+profile-creator: Creator
+profile-maintainer: Maintainer
+profile-one: 'profile defined'
+profile-various: 'profiles defined'   
+id-profile: 'ID of profile'
+table-name-label: 'Name/Label'
+table-data-type: 'Type'
+table-parameter: 'Parameter'
+table-id-parameter: 'ID profile entry'
+data-type-vocabulary: vocabulary
+data-type-bool: 'Yes/No'
+data-type-number: Number
+data-type-text: Text
+parameter-dialog: 'display: Dialog box'
+parameter-integrated: 'integrated display'
+parameter-one-time: 'single selection'
+parameter-more-times: 'multiple selection'
+parameter-hide-notation: 'numbering suppressed'
+parameter-deep: 'show only first level'
+parameter-yes: text for TRUE'
+parameter-no: 'text for FALSE'
+parameter-decimal: 'decimal places'
+parameter-min-value: 'minimum value'
+parameter-max-value: 'maximum value'
+parameter-noone: 'none'
+parameter-seconds: 'as seconds'
+parameter-textfield: 'single line'
+parameter-textarea: 'multiples lines'
+parameter-language: 'Language(s): en'
