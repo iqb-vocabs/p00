@@ -29,14 +29,14 @@ jobs:
       -  name: Install Python and Dependencies
          uses: actions/setup-python@v4
          with:
-           python-version: '3.12'
-           cache: 'pip3'
-      - run: pip3 install pyyaml
+           python-version: '3.10'
+           cache: 'pip'
+      - run: pip install pyyaml
 
       - name : Execution scripts
         run: |
-          python3 ./scripts/replace-language.py
-          python3 ./scripts/tags-to-i18n.py
+          python ./scripts/replace-language.py
+          python ./scripts/tags-to-i18n.py
       - name : Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 

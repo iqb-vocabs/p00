@@ -14,8 +14,8 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p00/master/unit.jso
 
 | Num/Label | tip | Parameter | ID profil register |
 | :--- | :---: | :--- | :---: |
-| vocabulari Aufgabe Dialog | [vocabulari](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', Elecziun multipla, Dialogbox | a11 |
-| vocabulari Aufgabe Implicit | [vocabulari](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', Elecziun multipla, Dialogbox | a12 |
+| vocabulari Aufgabe Dialog | [vocabulari](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', Elecziun multipla, preschentaziun: dialogbox | a11 |
+| vocabulari Aufgabe Implicit | [vocabulari](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', Elecziun multipla, preschentaziun: dialogbox | a12 |
 | vocabulari Aufgabe In-form | [vocabulari](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', Elecziun multipla, preschentaziun integrada | a13 |
 | Boolean Aufgabe JA/NEIN | gea/na | Text per VAIR: ja, Text per FAUSS: nein | a3 |
 | Number Aufgabe | nomer | Commastels: 0, valur minimala: 0, valur maximala: nagin | a4 |
@@ -31,7 +31,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p00/master/item.jso
 | Freitext Item A | text | Einzeilig, Lingua(s): ro   | w2 |
 | Boolean Item | gea/na | Text per VAIR: störend, Text per FAUSS: nicht relevant | w3 |
 | Number Item | nomer | Commastels: 0, valur minimala: 0, valur maximala: nagin, sco secondas | w4 |
-| Test vocabulari | [vocabulari](https://w3id.org/iqb/v99/v3/) | url: 'https://w3id.org/iqb/v99/v3/', Elecziun multipla, mussescha mo emprim nivel, Dialogbox | w5 |
+| Test vocabulari | [vocabulari](https://w3id.org/iqb/v99/v3/) | url: 'https://w3id.org/iqb/v99/v3/', Elecziun multipla, mussescha mo emprim nivel, preschentaziun: dialogbox | w5 |
 
 : {tbl-colwidths="[15,15,55,15]"}
 

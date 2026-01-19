@@ -14,8 +14,8 @@ ID du profil: `https://raw.githubusercontent.com/iqb-vocabs/p00/master/unit.json
 
 | Nom/Étiquette | Type | Paramètre | ID entrée de profil |
 | :--- | :---: | :--- | :---: |
-| vocabulaire Aufgabe Dialog | [vocabulaire](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', choix multiple, Dialogbox | a11 |
-| vocabulaire Aufgabe Implicit | [vocabulaire](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', choix multiple, Dialogbox | a12 |
+| vocabulaire Aufgabe Dialog | [vocabulaire](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', choix multiple, affichage : boîte de dialogue | a11 |
+| vocabulaire Aufgabe Implicit | [vocabulaire](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', choix multiple, affichage : boîte de dialogue | a12 |
 | vocabulaire Aufgabe In-form | [vocabulaire](https://w3id.org/iqb/v34/se/) | url: 'https://w3id.org/iqb/v34/se/', choix multiple, présentation intégrée | a13 |
 | Boolean Aufgabe JA/NEIN | Oui/Non | texte vrai: ja, texte incorrect: nein | a3 |
 | Number Aufgabe | numéro | décimales: 0, valeur minimale: 0, valeur maximale: aucun | a4 |
@@ -31,7 +31,7 @@ ID du profil: `https://raw.githubusercontent.com/iqb-vocabs/p00/master/item.json
 | Freitext Item A | texte | une ligne,  Langue(s) : fr   | w2 |
 | Boolean Item | Oui/Non | texte vrai: störend, texte incorrect: nicht relevant | w3 |
 | Number Item | numéro | décimales: 0, valeur minimale: 0, valeur maximale: aucun, en secondes | w4 |
-| Test vocabulaire | [vocabulaire](https://w3id.org/iqb/v99/v3/) | url: 'https://w3id.org/iqb/v99/v3/', choix multiple, afficher uniquement le premier niveau, Dialogbox | w5 |
+| Test vocabulaire | [vocabulaire](https://w3id.org/iqb/v99/v3/) | url: 'https://w3id.org/iqb/v99/v3/', choix multiple, afficher uniquement le premier niveau, affichage : boîte de dialogue | w5 |
 
 : {tbl-colwidths="[15,15,55,15]"}
 
