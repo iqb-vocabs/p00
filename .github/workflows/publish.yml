@@ -2,10 +2,10 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 name: Prepare und Publish
 
@@ -46,4 +46,5 @@ jobs:
           target: gh-pages
 
         env:
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
