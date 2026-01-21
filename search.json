@@ -55,151 +55,6 @@
     ]
   },
   {
-    "objectID": "output/Franzoesisch.html",
-    "href": "output/Franzoesisch.html",
-    "title": "IQB Testprofil International",
-    "section": "",
-    "text": "ID du profile-store: ptesti\nprofile-creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen\n2 profils définis:",
-    "crumbs": [
-      "IQB Testprofil",
-      "Französisch"
-    ]
-  },
-  {
-    "objectID": "output/Franzoesisch.html#stimulus",
-    "href": "output/Franzoesisch.html#stimulus",
-    "title": "IQB Testprofil International",
-    "section": "Stimulus",
-    "text": "Stimulus\n\n\n\n\n\n\n\n\n\nNom/Étiquette\nType\nParamètre\nID entrée de profil\n\n\n\n\nEntwickler:in\ntexte\nune ligne, Langue(s) : fr\niqb_author\n\n\nGrundfärben\nvocabulaire\nurl: ‘https://w3id.org/iqb/v99/pc/’, choix multiple, affichage : boîte de dialogue\niqb_grundfarben\n\n\nStimuluszeit\nnuméro\ndécimales: 0, valeur minimale: 0, valeur maximale: aucun, en secondes\niqb_time_stimulus",
-    "crumbs": [
-      "IQB Testprofil",
-      "Französisch"
-    ]
-  },
-  {
-    "objectID": "output/Franzoesisch.html#quelle",
-    "href": "output/Franzoesisch.html#quelle",
-    "title": "IQB Testprofil International",
-    "section": "Quelle",
-    "text": "Quelle\n\n\n\n\n\n\n\n\n\nNom/Étiquette\nType\nParamètre\nID entrée de profil\n\n\n\n\nFür SPF geeignet\nOui/Non\ntexte vrai: ja, texte incorrect: nein\niqb_spf\n\n\nNotizfeld\ntexte\nplusieurs lignes, Langue(s) : fr\niqb_note_field\n\n\nSekundarfärben\nvocabulaire\nurl: ‘https://w3id.org/iqb/v99/sc/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\niqb_sekundarfarben",
-    "crumbs": [
-      "IQB Testprofil",
-      "Französisch"
-    ]
-  },
-  {
-    "objectID": "output/Franzoesisch.html#item",
-    "href": "output/Franzoesisch.html#item",
-    "title": "IQB Testprofil International",
-    "section": "Item",
-    "text": "Item\n\n\n\n\n\n\n\n\n\nNom/Étiquette\nType\nParamètre\nID entrée de profil\n\n\n\n\nBoolean Item\nOui/Non\ntexte vrai: störend, texte incorrect: nicht relevant\nb0\n\n\nWortanzahl\nnuméro\ndécimales: 0, valeur minimale: 0, valeur maximale: aucun\niqb_word_count",
-    "crumbs": [
-      "IQB Testprofil",
-      "Französisch"
-    ]
-  },
-  {
-    "objectID": "output/Franzoesisch.html#bildungstandards",
-    "href": "output/Franzoesisch.html#bildungstandards",
-    "title": "IQB Testprofil International",
-    "section": "Bildungstandards",
-    "text": "Bildungstandards\n\n\n\n\n\n\n\n\n\nNom/Étiquette\nType\nParamètre\nID entrée de profil\n\n\n\n\nFunktionale ESA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/fe/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns1\n\n\nFunktionale MSA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/fm/’, choix multiple, afficher uniquement le premier niveau, affichage : boîte de dialogue, numérotation supprimée\ns2\n\n\nSprachbewusstheit ESA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/be/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns3\n\n\nSprachbewusstheit MSA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/bm/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns4\n\n\nInterkulturelle Kompetenz ESA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/fe/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns5\n\n\nInterkulturelle Kompetenz MSA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/im/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns6\n\n\ntexte- und Medienkompetenz ESA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/te/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns7\n\n\ntexte- und Medienkompetenz MSA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/tm/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns8",
-    "crumbs": [
-      "IQB Testprofil",
-      "Französisch"
-    ]
-  },
-  {
-    "objectID": "output/Deutsch.html",
-    "href": "output/Deutsch.html",
-    "title": "IQB Testprofil International",
-    "section": "",
-    "text": "ID des profile-store: ptesti\nSchöpfer: IQB - Institut zur Qualitätsentwicklung im Bildungswesen\n2 Profile definiert:",
-    "crumbs": [
-      "IQB Testprofil",
-      "Deutsch"
-    ]
-  },
-  {
-    "objectID": "output/Deutsch.html#stimulus",
-    "href": "output/Deutsch.html#stimulus",
-    "title": "IQB Testprofil International",
-    "section": "Stimulus",
-    "text": "Stimulus\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nEntwickler:in\nText\nEinzeilig, Sprache(n): de\niqb_author\n\n\nGrundfärben\nVokabular\nurl: ‘https://w3id.org/iqb/v99/pc/’, Mehrfachauswahl, Dialogbox\niqb_grundfarben\n\n\nStimuluszeit\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden\niqb_time_stimulus",
-    "crumbs": [
-      "IQB Testprofil",
-      "Deutsch"
-    ]
-  },
-  {
-    "objectID": "output/Deutsch.html#quelle",
-    "href": "output/Deutsch.html#quelle",
-    "title": "IQB Testprofil International",
-    "section": "Quelle",
-    "text": "Quelle\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nFür SPF geeignet\nJa/Nein\nText für WAHR: ja, Text für FALSCH: nein\niqb_spf\n\n\nNotizfeld\nText\nMehrzeilig, Sprache(n): de\niqb_note_field\n\n\nSekundarfärben\nVokabular\nurl: ‘https://w3id.org/iqb/v99/sc/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\niqb_sekundarfarben",
-    "crumbs": [
-      "IQB Testprofil",
-      "Deutsch"
-    ]
-  },
-  {
-    "objectID": "output/Deutsch.html#item",
-    "href": "output/Deutsch.html#item",
-    "title": "IQB Testprofil International",
-    "section": "Item",
-    "text": "Item\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nBoolean Item\nJa/Nein\nText für WAHR: störend, Text für FALSCH: nicht relevant\nb0\n\n\nWortanzahl\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein\niqb_word_count",
-    "crumbs": [
-      "IQB Testprofil",
-      "Deutsch"
-    ]
-  },
-  {
-    "objectID": "output/Deutsch.html#bildungstandards",
-    "href": "output/Deutsch.html#bildungstandards",
-    "title": "IQB Testprofil International",
-    "section": "Bildungstandards",
-    "text": "Bildungstandards\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nFunktionale ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fe/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns1\n\n\nFunktionale MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fm/’, Mehrfachauswahl, Zeige nur erste Ebene, Dialogbox, Nummerierung unterdrückt\ns2\n\n\nSprachbewusstheit ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/be/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns3\n\n\nSprachbewusstheit MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/bm/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns4\n\n\nInterkulturelle Kompetenz ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fe/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns5\n\n\nInterkulturelle Kompetenz MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/im/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns6\n\n\nText- und Medienkompetenz ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/te/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns7\n\n\nText- und Medienkompetenz MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/tm/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns8",
-    "crumbs": [
-      "IQB Testprofil",
-      "Deutsch"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "IQB Testprofil International",
-    "section": "",
-    "text": "ID of profile-store: ptesti\nCreator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen\n2 Profile definiert:"
-  },
-  {
-    "objectID": "index.html#stimulus",
-    "href": "index.html#stimulus",
-    "title": "IQB Testprofil International",
-    "section": "Stimulus",
-    "text": "Stimulus\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nEntwickler:in\nText\nEinzeilig, Sprache(n): de\niqb_author\n\n\nGrundfärben\nVokabular\nurl: ‘https://w3id.org/iqb/v99/pc/’, Mehrfachauswahl, Dialogbox\niqb_grundfarben\n\n\nStimuluszeit\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden\niqb_time_stimulus"
-  },
-  {
-    "objectID": "index.html#quelle",
-    "href": "index.html#quelle",
-    "title": "IQB Testprofil International",
-    "section": "Quelle",
-    "text": "Quelle\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nFür SPF geeignet\nJa/Nein\nText für WAHR: ja, Text für FALSCH: nein\niqb_spf\n\n\nNotizfeld\nText\nMehrzeilig, Sprache(n): de\niqb_note_field\n\n\nSekundarfärben\nVokabular\nurl: ‘https://w3id.org/iqb/v99/sc/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\niqb_sekundarfarben"
-  },
-  {
-    "objectID": "index.html#item",
-    "href": "index.html#item",
-    "title": "IQB Testprofil International",
-    "section": "Item",
-    "text": "Item\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nBoolean Item\nJa/Nein\nText für WAHR: störend, Text für FALSCH: nicht relevant\nb0\n\n\nWortanzahl\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein\niqb_word_count"
-  },
-  {
-    "objectID": "index.html#bildungstandards",
-    "href": "index.html#bildungstandards",
-    "title": "IQB Testprofil International",
-    "section": "Bildungstandards",
-    "text": "Bildungstandards\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nFunktionale ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fe/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns1\n\n\nFunktionale MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fm/’, Mehrfachauswahl, Zeige nur erste Ebene, Dialogbox, Nummerierung unterdrückt\ns2\n\n\nSprachbewusstheit ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/be/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns3\n\n\nSprachbewusstheit MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/bm/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns4\n\n\nInterkulturelle Kompetenz ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fe/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns5\n\n\nInterkulturelle Kompetenz MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/im/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns6\n\n\nText- und Medienkompetenz ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/te/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns7\n\n\nText- und Medienkompetenz MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/tm/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns8"
-  },
-  {
     "objectID": "output/Englisch.html",
     "href": "output/Englisch.html",
     "title": "IQB Testprofil International",
@@ -307,6 +162,151 @@
     "crumbs": [
       "IQB Testprofil",
       "Italienisch"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IQB Testprofil International",
+    "section": "",
+    "text": "ID of profile-store: ptesti\nCreator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen\n2 Profile definiert:"
+  },
+  {
+    "objectID": "index.html#stimulus",
+    "href": "index.html#stimulus",
+    "title": "IQB Testprofil International",
+    "section": "Stimulus",
+    "text": "Stimulus\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nEntwickler:in\nText\nEinzeilig, Sprache(n): de\niqb_author\n\n\nGrundfärben\nVokabular\nurl: ‘https://w3id.org/iqb/v99/pc/’, Mehrfachauswahl, Dialogbox\niqb_grundfarben\n\n\nStimuluszeit\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden\niqb_time_stimulus"
+  },
+  {
+    "objectID": "index.html#quelle",
+    "href": "index.html#quelle",
+    "title": "IQB Testprofil International",
+    "section": "Quelle",
+    "text": "Quelle\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nFür SPF geeignet\nJa/Nein\nText für WAHR: ja, Text für FALSCH: nein\niqb_spf\n\n\nNotizfeld\nText\nMehrzeilig, Sprache(n): de\niqb_note_field\n\n\nSekundarfärben\nVokabular\nurl: ‘https://w3id.org/iqb/v99/sc/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\niqb_sekundarfarben"
+  },
+  {
+    "objectID": "index.html#item",
+    "href": "index.html#item",
+    "title": "IQB Testprofil International",
+    "section": "Item",
+    "text": "Item\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nBoolean Item\nJa/Nein\nText für WAHR: störend, Text für FALSCH: nicht relevant\nb0\n\n\nWortanzahl\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein\niqb_word_count"
+  },
+  {
+    "objectID": "index.html#bildungstandards",
+    "href": "index.html#bildungstandards",
+    "title": "IQB Testprofil International",
+    "section": "Bildungstandards",
+    "text": "Bildungstandards\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nFunktionale ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fe/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns1\n\n\nFunktionale MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fm/’, Mehrfachauswahl, Zeige nur erste Ebene, Dialogbox, Nummerierung unterdrückt\ns2\n\n\nSprachbewusstheit ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/be/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns3\n\n\nSprachbewusstheit MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/bm/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns4\n\n\nInterkulturelle Kompetenz ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fe/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns5\n\n\nInterkulturelle Kompetenz MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/im/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns6\n\n\nText- und Medienkompetenz ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/te/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns7\n\n\nText- und Medienkompetenz MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/tm/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns8"
+  },
+  {
+    "objectID": "output/Deutsch.html",
+    "href": "output/Deutsch.html",
+    "title": "IQB Testprofil International",
+    "section": "",
+    "text": "ID des profile-store: ptesti\nSchöpfer: IQB - Institut zur Qualitätsentwicklung im Bildungswesen\n2 Profile definiert:",
+    "crumbs": [
+      "IQB Testprofil",
+      "Deutsch"
+    ]
+  },
+  {
+    "objectID": "output/Deutsch.html#stimulus",
+    "href": "output/Deutsch.html#stimulus",
+    "title": "IQB Testprofil International",
+    "section": "Stimulus",
+    "text": "Stimulus\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nEntwickler:in\nText\nEinzeilig, Sprache(n): de\niqb_author\n\n\nGrundfärben\nVokabular\nurl: ‘https://w3id.org/iqb/v99/pc/’, Mehrfachauswahl, Dialogbox\niqb_grundfarben\n\n\nStimuluszeit\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden\niqb_time_stimulus",
+    "crumbs": [
+      "IQB Testprofil",
+      "Deutsch"
+    ]
+  },
+  {
+    "objectID": "output/Deutsch.html#quelle",
+    "href": "output/Deutsch.html#quelle",
+    "title": "IQB Testprofil International",
+    "section": "Quelle",
+    "text": "Quelle\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nFür SPF geeignet\nJa/Nein\nText für WAHR: ja, Text für FALSCH: nein\niqb_spf\n\n\nNotizfeld\nText\nMehrzeilig, Sprache(n): de\niqb_note_field\n\n\nSekundarfärben\nVokabular\nurl: ‘https://w3id.org/iqb/v99/sc/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\niqb_sekundarfarben",
+    "crumbs": [
+      "IQB Testprofil",
+      "Deutsch"
+    ]
+  },
+  {
+    "objectID": "output/Deutsch.html#item",
+    "href": "output/Deutsch.html#item",
+    "title": "IQB Testprofil International",
+    "section": "Item",
+    "text": "Item\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nBoolean Item\nJa/Nein\nText für WAHR: störend, Text für FALSCH: nicht relevant\nb0\n\n\nWortanzahl\nZahl\nKommastellen: 0, Mindestwert: 0, Maximalwert: kein\niqb_word_count",
+    "crumbs": [
+      "IQB Testprofil",
+      "Deutsch"
+    ]
+  },
+  {
+    "objectID": "output/Deutsch.html#bildungstandards",
+    "href": "output/Deutsch.html#bildungstandards",
+    "title": "IQB Testprofil International",
+    "section": "Bildungstandards",
+    "text": "Bildungstandards\n\n\n\n\n\n\n\n\n\nName/Label\nTyp\nParameter\nID Profil-Eintrag\n\n\n\n\nFunktionale ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fe/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns1\n\n\nFunktionale MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fm/’, Mehrfachauswahl, Zeige nur erste Ebene, Dialogbox, Nummerierung unterdrückt\ns2\n\n\nSprachbewusstheit ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/be/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns3\n\n\nSprachbewusstheit MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/bm/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns4\n\n\nInterkulturelle Kompetenz ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/fe/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns5\n\n\nInterkulturelle Kompetenz MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/im/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns6\n\n\nText- und Medienkompetenz ESA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/te/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns7\n\n\nText- und Medienkompetenz MSA\nVokabular\nurl: ‘https://w3id.org/iqb/v56/tm/’, Mehrfachauswahl, Dialogbox, Nummerierung unterdrückt\ns8",
+    "crumbs": [
+      "IQB Testprofil",
+      "Deutsch"
+    ]
+  },
+  {
+    "objectID": "output/Franzoesisch.html",
+    "href": "output/Franzoesisch.html",
+    "title": "IQB Testprofil International",
+    "section": "",
+    "text": "ID du profile-store: ptesti\nprofile-creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen\n2 profils définis:",
+    "crumbs": [
+      "IQB Testprofil",
+      "Französisch"
+    ]
+  },
+  {
+    "objectID": "output/Franzoesisch.html#stimulus",
+    "href": "output/Franzoesisch.html#stimulus",
+    "title": "IQB Testprofil International",
+    "section": "Stimulus",
+    "text": "Stimulus\n\n\n\n\n\n\n\n\n\nNom/Étiquette\nType\nParamètre\nID entrée de profil\n\n\n\n\nEntwickler:in\ntexte\nune ligne, Langue(s) : fr\niqb_author\n\n\nGrundfärben\nvocabulaire\nurl: ‘https://w3id.org/iqb/v99/pc/’, choix multiple, affichage : boîte de dialogue\niqb_grundfarben\n\n\nStimuluszeit\nnuméro\ndécimales: 0, valeur minimale: 0, valeur maximale: aucun, en secondes\niqb_time_stimulus",
+    "crumbs": [
+      "IQB Testprofil",
+      "Französisch"
+    ]
+  },
+  {
+    "objectID": "output/Franzoesisch.html#quelle",
+    "href": "output/Franzoesisch.html#quelle",
+    "title": "IQB Testprofil International",
+    "section": "Quelle",
+    "text": "Quelle\n\n\n\n\n\n\n\n\n\nNom/Étiquette\nType\nParamètre\nID entrée de profil\n\n\n\n\nFür SPF geeignet\nOui/Non\ntexte vrai: ja, texte incorrect: nein\niqb_spf\n\n\nNotizfeld\ntexte\nplusieurs lignes, Langue(s) : fr\niqb_note_field\n\n\nSekundarfärben\nvocabulaire\nurl: ‘https://w3id.org/iqb/v99/sc/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\niqb_sekundarfarben",
+    "crumbs": [
+      "IQB Testprofil",
+      "Französisch"
+    ]
+  },
+  {
+    "objectID": "output/Franzoesisch.html#item",
+    "href": "output/Franzoesisch.html#item",
+    "title": "IQB Testprofil International",
+    "section": "Item",
+    "text": "Item\n\n\n\n\n\n\n\n\n\nNom/Étiquette\nType\nParamètre\nID entrée de profil\n\n\n\n\nBoolean Item\nOui/Non\ntexte vrai: störend, texte incorrect: nicht relevant\nb0\n\n\nWortanzahl\nnuméro\ndécimales: 0, valeur minimale: 0, valeur maximale: aucun\niqb_word_count",
+    "crumbs": [
+      "IQB Testprofil",
+      "Französisch"
+    ]
+  },
+  {
+    "objectID": "output/Franzoesisch.html#bildungstandards",
+    "href": "output/Franzoesisch.html#bildungstandards",
+    "title": "IQB Testprofil International",
+    "section": "Bildungstandards",
+    "text": "Bildungstandards\n\n\n\n\n\n\n\n\n\nNom/Étiquette\nType\nParamètre\nID entrée de profil\n\n\n\n\nFunktionale ESA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/fe/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns1\n\n\nFunktionale MSA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/fm/’, choix multiple, afficher uniquement le premier niveau, affichage : boîte de dialogue, numérotation supprimée\ns2\n\n\nSprachbewusstheit ESA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/be/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns3\n\n\nSprachbewusstheit MSA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/bm/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns4\n\n\nInterkulturelle Kompetenz ESA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/fe/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns5\n\n\nInterkulturelle Kompetenz MSA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/im/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns6\n\n\ntexte- und Medienkompetenz ESA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/te/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns7\n\n\ntexte- und Medienkompetenz MSA\nvocabulaire\nurl: ‘https://w3id.org/iqb/v56/tm/’, choix multiple, affichage : boîte de dialogue, numérotation supprimée\ns8",
+    "crumbs": [
+      "IQB Testprofil",
+      "Französisch"
     ]
   }
 ]
